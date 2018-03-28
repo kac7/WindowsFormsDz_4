@@ -1,0 +1,9 @@
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.exe.config
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.exe
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.pdb
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4_1.csprojResolveAssemblyReference.cache
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.Properties.Resources.resources
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4_1.csproj.GenerateResource.Cache
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.exe
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.pdb
+c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.Form1.resources
