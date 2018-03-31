@@ -7,3 +7,15 @@ c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFo
 c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.exe
 c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.pdb
 c:\users\кас\documents\visual studio 2015\Projects\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.Form1.resources
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.exe.config
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.exe
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.pdb
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.exe
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\bin\Debug\WindowsFormsDz_4.pdb
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4_1.csprojResolveAssemblyReference.cache
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.Form1.resources
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4.Properties.Resources.resources
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4_1.csproj.GenerateResource.Cache
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\bin\Debug\WindowsFormsDz_4.exe.config
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.exe
+E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.pdb

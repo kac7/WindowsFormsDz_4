@@ -20,7 +20,6 @@ namespace WindowsFormsDz_4
     public partial class Form1 : Form
     {
         public string path { get; set; } = ""; 
-        public string buffer { get; set; } = "";
         public Form1()
         {
             InitializeComponent();
@@ -132,7 +131,6 @@ namespace WindowsFormsDz_4
                 writing.Close();
             }
         }
-
         private void SaveFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (path != "")
@@ -151,8 +149,24 @@ namespace WindowsFormsDz_4
             dialog.FilterIndex = 2;
             if (dialog.ShowDialog() == DialogResult.OK)
             {
+                textBox.ReadOnly = false;
+                contextMenuStrip.Enabled = true;
+                saveFileAsToolStripMenuItem.Enabled = true;
+                saveFileToolStripMenuItem.Enabled = true;
+                cutToolStripMenuItem.Enabled = true;
+                copyToolStripMenuItem.Enabled = true;
+                insertToolStripMenuItem.Enabled = true;
+                cancelToolStripMenuItem.Enabled = true;
+                selectAllToolStripMenuItem.Enabled = true;
+                saveToolStripButton.Enabled = true;
+                copyToolStripButton.Enabled = true;
+                cutToolStripButton.Enabled = true;
+                insertToolStripButton.Enabled = true;
                 path = dialog.FileName;
                 Text = $"Текстовый редактор - {path}";
+                StreamWriter writing = new StreamWriter(path, false, Encoding.Default);
+                writing.Write(textBox.Text);
+                writing.Close();
             }
         }
 
@@ -163,6 +177,19 @@ namespace WindowsFormsDz_4
             dialog.FilterIndex = 2;
             if (dialog.ShowDialog() == DialogResult.OK)
             {
+                textBox.ReadOnly = false;
+                contextMenuStrip.Enabled = true;
+                saveFileAsToolStripMenuItem.Enabled = true;
+                saveFileToolStripMenuItem.Enabled = true;
+                cutToolStripMenuItem.Enabled = true;
+                copyToolStripMenuItem.Enabled = true;
+                insertToolStripMenuItem.Enabled = true;
+                cancelToolStripMenuItem.Enabled = true;
+                selectAllToolStripMenuItem.Enabled = true;
+                saveToolStripButton.Enabled = true;
+                copyToolStripButton.Enabled = true;
+                cutToolStripButton.Enabled = true;
+                insertToolStripButton.Enabled = true;
                 path = dialog.FileName;
                 Text = $"Текстовый редактор - {path}";
                 StreamReader reading = new StreamReader(dialog.FileName, Encoding.Default);
