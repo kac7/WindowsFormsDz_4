@@ -7,3 +7,6 @@ E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_3_2.Prope
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_4_2.csproj.GenerateResource.Cache
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_3_2.exe
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_3_2.pdb
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_2\bin\Debug\WindowsFormsDz_3_2.exe.config
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_3_2.exe
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_2\obj\Debug\WindowsFormsDz_3_2.pdb

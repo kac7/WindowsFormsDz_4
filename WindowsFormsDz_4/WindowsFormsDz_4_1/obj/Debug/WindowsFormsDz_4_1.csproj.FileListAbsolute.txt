@@ -19,3 +19,6 @@ E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4\obj\Debug\WindowsFormsDz_4_1.csproj.
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\bin\Debug\WindowsFormsDz_4.exe.config
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.exe
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.pdb
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_1\bin\Debug\WindowsFormsDz_4.exe.config
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.exe
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_1\obj\Debug\WindowsFormsDz_4.pdb

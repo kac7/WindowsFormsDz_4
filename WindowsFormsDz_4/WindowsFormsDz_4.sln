@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDz_4_3", "Windo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDz_4_2", "WindowsFormsDz_4_2\WindowsFormsDz_4_2.csproj", "{978C8770-E909-4527-8D75-EE97E18B827D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDz_4_1", "WindowsFormsDz_4\WindowsFormsDz_4_1.csproj", "{C163F788-ABDB-4B85-B8FE-48EECF26A8CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDz_4_1", "WindowsFormsDz_4_1\WindowsFormsDz_4_1.csproj", "{C163F788-ABDB-4B85-B8FE-48EECF26A8CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

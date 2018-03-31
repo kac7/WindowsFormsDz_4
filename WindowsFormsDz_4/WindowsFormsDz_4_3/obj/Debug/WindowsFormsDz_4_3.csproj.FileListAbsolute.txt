@@ -7,3 +7,6 @@ E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.cspro
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.exe
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.pdb
 E:\ItStep\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.Form1.resources
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_3\bin\Debug\WindowsFormsDz_4_3.exe.config
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.exe
+C:\Users\Кас\Desktop\WindowsFormsDz_4\WindowsFormsDz_4_3\obj\Debug\WindowsFormsDz_4_3.pdb
